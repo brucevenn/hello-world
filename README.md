@@ -2,4 +2,4 @@
 The first repositor
 Hello everyone!
 
-this is the first contact with GitHub
+this is my first contact with GitHub
